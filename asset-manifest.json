@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React_Entertainment/static/css/main.39c83f18.css",
-    "main.js": "/React_Entertainment/static/js/main.cf549d46.js",
+    "main.js": "/React_Entertainment/static/js/main.34be10ec.js",
     "static/js/266.69a7b574.chunk.js": "/React_Entertainment/static/js/266.69a7b574.chunk.js",
     "static/js/453.02b0ce3f.chunk.js": "/React_Entertainment/static/js/453.02b0ce3f.chunk.js",
     "static/js/248.ff9bd169.chunk.js": "/React_Entertainment/static/js/248.ff9bd169.chunk.js",
@@ -33,7 +33,7 @@
     "static/media/LoadingHero.svg": "/React_Entertainment/static/media/LoadingHero.19f488ffe6f088d648e93755db334fdd.svg",
     "static/media/LoadingCard.svg": "/React_Entertainment/static/media/LoadingCard.edf34223fea33fb8e0d67fbc3ffaece0.svg",
     "main.39c83f18.css.map": "/React_Entertainment/static/css/main.39c83f18.css.map",
-    "main.cf549d46.js.map": "/React_Entertainment/static/js/main.cf549d46.js.map",
+    "main.34be10ec.js.map": "/React_Entertainment/static/js/main.34be10ec.js.map",
     "266.69a7b574.chunk.js.map": "/React_Entertainment/static/js/266.69a7b574.chunk.js.map",
     "453.02b0ce3f.chunk.js.map": "/React_Entertainment/static/js/453.02b0ce3f.chunk.js.map",
     "248.ff9bd169.chunk.js.map": "/React_Entertainment/static/js/248.ff9bd169.chunk.js.map",
@@ -58,6 +58,6 @@
   },
   "entrypoints": [
     "static/css/main.39c83f18.css",
-    "static/js/main.cf549d46.js"
+    "static/js/main.34be10ec.js"
   ]
 }
