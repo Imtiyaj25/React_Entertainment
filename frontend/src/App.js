@@ -50,7 +50,7 @@ function App() {
         <Routes>
           {/* Home */}
           <Route
-            path="/"
+            path="/React_Entertainment"
             element={
               <Suspense fallback={<MainScreen />}>
                 <Home />
