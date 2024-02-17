@@ -20,7 +20,7 @@ const Navbar = () => {
         <button
           aria-label="Home"
           className="btn bg-transparent hover:bg-transparent focus:bg-transparent m-0 p-0 border-none hover:text-white">
-          <Link to="/" aria-label="Home">
+          <Link to="React_Entertainment" aria-label="Home">
             <BiHomeSmile className="bg-nav text-3xl lg:text-5xl" />
           </Link>
         </button>
